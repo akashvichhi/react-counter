@@ -1,11 +1,11 @@
 import Counter from "./components/Counter/Counter";
 
-function App() {
-  return (
-    <div className="container mx-auto p-4">
-      <Counter />
-    </div>
-  );
+function App () {
+    return (
+        <div className="container mx-auto p-4">
+            <Counter />
+        </div>
+    );
 }
 
 export default App;
